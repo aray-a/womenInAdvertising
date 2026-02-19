@@ -1,7 +1,5 @@
 field,display_name,btn,hidden,sort_name
-mediumAdvert,Advertisement Medium,true
+mediumAdvert,"Advertisement Medium",true
 date,Date,,,Date
 creator,Creator,,,
-subject,Subjects,,
 location,Location,,
-format,Format,,
