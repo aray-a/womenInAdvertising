@@ -5,7 +5,7 @@ mediumAdvert,Advertisement Medium,false
 date,Date Created,
 description,Description,
 subject,Subjects,true
-location,Location
+location,Location,true
 latitude,Latitude
 longitude,Longitude
 source,Source
