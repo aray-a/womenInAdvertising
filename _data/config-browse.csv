@@ -2,4 +2,4 @@ field,display_name,btn,hidden,sort_name
 mediumAdvert,Medium,true
 date,Date,,,Date
 creator,Creator,,,
-location,Location,,
+location,Location,true
