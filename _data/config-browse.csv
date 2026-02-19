@@ -1,5 +1,6 @@
 field,display_name,btn,hidden,sort_name
+mediumAdvert, Advertisement Medium,true
 date,Date,,,Date
 creator,Creator,,,
-subject,,true
-location,,true
+subject,Subjects,true
+location,Location,,
