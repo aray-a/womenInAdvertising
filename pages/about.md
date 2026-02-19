@@ -10,12 +10,11 @@ credits: true
 
 {% include feature/jumbotron.html objectid="/assets/img/jj-ying-WmnsGyaFnCQ-unsplash_opt.jpg" %}
 
-## About CollectionBuilder-Sheets
+## Collection Description
 
-This site is generated using [CollectionBuilder-Sheets](https://github.com/CollectionBuilder/collectionbuilder-sheets), a template  for creating simple digital exhibit websites by loading collection metadata directly from a CSV, designed for teaching digital library skills and easy hosting on GitHub Pages.
+Our collection centers on visuals of fictionalized women in American advertising, examining the historic representations of women in media. “Fictionalized women” are women that do not represent a real woman, like a spokesperson or sponsor, although they may be based on a real woman. The collection features a wide scope of advertising mediums spanning 1880 - 1945. The items themselves are digital scans, but originally take many forms; The most common forms are magazine inserts and trading cards, often made with various lithography methods. A selection of the ads represent companies still present today, while others went out of business or merged into other groups. 
 
-Using CB-Sheets, it is possible to use a live Google Sheets spreadsheet for your collection metadata, allowing you to see the outcome of metadata edits update immediately.
-This enables active collaboration to prototype collections with minimal set up.
+These items may pique the interest of, amongst others, historians, marketers, creatives, feminists, and consumers curious about how their product staples have evolved over time. Among approaches to this collection, the political and artistic uses stand out to us. The items can be used to examine patterns in corporate depictions of women through sociolinguistic evolution (terms such as “lady,” “maiden,” “girl”), logistical dissonance, and manufactured femininity. One could also use this curation for artistic pastiche to; to emulate the period styles gathered in their own work. All objects presented are sourced from galleries, libraries, archives, and museums’ digital resources; the topics covered span many focuses, and thus materials were sourced from a variety of outlets, but there was particular resource found in niche museums, as they often host the items for a product or a company, rather than advertisements as a genre.
 
 <button class="btn btn-lg btn-success" data-bs-toggle="modal" data-bs-target="#cbSetUpModal">
     <svg class="bi icon-sprite" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16" aria-hidden="true">
