@@ -20,12 +20,12 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-sheets
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Women in American Advertising
+title: Fictionalized Women in American Advertising
 # tagline, a short phrase that will appear throughout the site in the top banner
 tagline: An Investigation in Digitized Advert Media from 1880 to 1945
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "The digitized items in Women in Ameican Advertising, resourced from galleries, libraries, archives, and museums, displays items of media advertising featuring and focusing on women."
+description: "The digitized items in Women in American Advertising, resourced from galleries, libraries, archives, and museums, displays items of media advertising featuring and focusing on women."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Katharsis-s;aray-a;
 
