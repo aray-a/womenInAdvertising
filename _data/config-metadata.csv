@@ -1,6 +1,7 @@
 field,display_name,browse_link,external_link
 title,Title,
 creator,Creator,
+product,Product,,
 mediumadvert,Medium,true
 date,Date Created,
 description,Description,
