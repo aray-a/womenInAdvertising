@@ -3,3 +3,4 @@ date,Date,,,Date
 creator,Creator,,,
 mediumadvert,Advert Medium,true
 location,Location,true
+subject,Subject,false,true
