@@ -1,6 +1,18 @@
 field,display_name
+objectid,ObjectID
 title,Title
-date,Date
-description,Description
-subject,Subjects
 product,Product
+mediumadvert,Advertising Medium
+creator,Creator or Brand
+producer,Producer or Artist
+date,Date
+daterange,Range of Dates
+subject,Subjects
+location,State
+city,City
+source,Source
+description,Description
+citation,Citation
+format,Format of Image
+rights,Rights
+rightsstatement,Rights Statement
