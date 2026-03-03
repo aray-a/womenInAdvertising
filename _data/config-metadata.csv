@@ -10,6 +10,7 @@ location,Location,true
 latitude,Latitude
 longitude,Longitude
 source,Source,,true
+citation,Citation,true,false
 identifier,Source Identifier,,
 type,Type,
 format,Format,
