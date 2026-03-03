@@ -31,7 +31,7 @@ Began with feminine mascots, fictionalized and recurring characters in digital a
 Originally sourced from a wide range of producers and artists, there are plenty of overarching themes. Trade cards and magazine pages were the two most popular mediums, and production using lithographs outpaced all other printing formats until 1900\. Finding the items in the collection required traversing through metadata and key-words, rather than by artists or companies, many of which featured in the collection are no longer in operation. As there are very few institutions hosting advertising-media in specific, niche sources and sources focusing on American history were of particular utility. 
 
 | Item Description | File Type | Size (in MB) | \# of Items | License(s) | Sources |
-| ----- | :---: | :---: | :---: | ----- | ----- |
+| :---- | :---- | :---- | :---- | :---- | :---- |
 | Downloaded images of digitized scans, or photographs, of visual advertising media from GLAM institutions | JPG/JPEG | 19.8 MB | 28 | In Copyright In Copyright \- Educational Use Permitted, CC BY-NC 4.0,  Public Domain | Waring Library, Harvard Library, The New York Public Library, JSTOR, The State Historical Society of Missouri, National Museum of American History, Folger Shakespeare Library, Railroad Museum of Pennsylvania, Columbia University Libraries, Science History Institute Museum and Library, UC Berkeley Art Museum, Evelyn Lehman Culp Heritage Collection, Temple University Libraries, The Library Company of Philadelphia,  |
 
 This collection is built in the CollectionBuilder Jekyll Template, and hosted in GitHub. All necessary tools to edit the collection exist within the GitHub repository. This means that the code for the website is accessible and editable within the authors’ GitHub, and the data shown (subjects, products, locations, …) are stored within a CSV file. The images are all stored in the original resources (GLAMS) where they are easily accessible, in the authors’ computers as downloaded files, and in a folder in the GitHub repository. To alter this collection, one needs access to the GitHub, wifi, and beginner coding knowledge. 
@@ -66,16 +66,13 @@ The items, including the metadata sheet and images, will still be in a Google Dr
 
 ## Appendix: Data Dictionary
 
-* *Your data dictionary is the key to your metadata.*  
-* *You do not need to alter the standard definitions of fields required by CollectionBuilder, **but example values should come from your collection**..*
-
 | field | definition | example |
 | :---- | :---- | :---- |
 | objectid | Unique identifier assigned to each object to make object referencing easier for CollectionBuilder. It consists of the subject focal point (“women”), “ad” (short for “advertising”), and a number (denotes no particular order)  | womenads15 |
 | filename | Name of file and file type extension as-is stored in the folder.  Our naming convention includes the abbreviated company name, and the product being sold | antikamnia\_painmeds.jpeg |
 | title | Name of the object, sourced as-is from the GLAM or a simplified version for clarity  | “Faith” |
-| creator | The company who sponsored the ad  |  |
-| producer | Artist, manufacturer  |  |
+| creator | The company or group whose product is advertised | Antikamnia Chemical Company |
+| producer | Artist, Manufacturer, or Host |  |
 | product |  |  |
 | mediumadvert |  |  |
 | date |  |  |
