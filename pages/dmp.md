@@ -4,23 +4,15 @@ layout: page
 permalink: /dmp.html
 ---
 
-**The Manufactured American Muse**
-
-***Fictional Women in Digitized Adverts from 1880 to 1945***
-
----
-
-**Data Management Plan**
-
-**Project Description**
+**Description of Project**
 
 This collection features images of fictionalized women in American advertising mediums, spanning 1880 to 1945\. Displaying a variety of products, this collection may prove useful for those in pursuit of a historical understanding of advertising or women in the United States, whether that be for artistic, political, or marketing purposes. The advertisements shown were collected, owned, and digitized by GLAM institutions – galleries, libraries, archives, and museums. The entirety of the images are accessible to the public on these GLAM institution’s online platforms. 
 
 This collection is hosted on GitHub, and accessible through the CollectionBuilder webhost. GitHub is a website that allows users to import, change, store, and share their code; this project is based on the CollectionBuilder Jekyll Template. The metadata is hosted in a CSV file which is stored in GitHub as well. The aspect of this project accessible through the website uses this software to read and create the website, and allows users to traverse its contents by features like subject, product, and location. 
 
-**Roles and Responsibilities**
+**Delegation of Responsibilities**
 
-	Throughout this undertaking, both members worked extensively to find, record, and verify resources. Collaboration was key in balancing the skills each member has. Together, they altered code, added custom builds to the CollectionBuilder template, and debated descriptive texts. 
+Throughout this undertaking, both members worked extensively to find, record, and verify resources. Collaboration was key in balancing the skills each member has. Together, they altered code, added custom builds to the CollectionBuilder template, and debated descriptive texts. 
 
 * Kat Lai
 
@@ -40,21 +32,21 @@ Originally sourced from a wide range of producers and artists, there are plenty 
 | ----- | :---: | :---: | :---: | ----- | ----- |
 | Downloaded images of digitized scans, or photographs, of visual advertising media from GLAM institutions | JPG/JPEG | 19.8 MB | 28 | In Copyright In Copyright \- Educational Use Permitted, CC BY-NC 4.0,  Public Domain | Waring Library, Harvard Library, The New York Public Library, JSTOR, The State Historical Society of Missouri, National Museum of American History, Folger Shakespeare Library, Railroad Museum of Pennsylvania, Columbia University Libraries, Science History Institute Museum and Library, UC Berkeley Art Museum, Evelyn Lehman Culp Heritage Collection, Temple University Libraries, The Library Company of Philadelphia,  |
 
-	This collection is built in the CollectionBuilder Jekyll Template, and hosted in GitHub. All necessary tools to edit the collection exist within the GitHub repository. This means that the code for the website is accessible and editable within the authors’ GitHub, and the data shown (subjects, products, locations, …) are stored within a CSV file. The images are all stored in the original resources (GLAMS) where they are easily accessible, in the authors’ computers as downloaded files, and in a folder in the GitHub repository. To alter this collection, one needs access to the GitHub, wifi, and beginner coding knowledge. 
+This collection is built in the CollectionBuilder Jekyll Template, and hosted in GitHub. All necessary tools to edit the collection exist within the GitHub repository. This means that the code for the website is accessible and editable within the authors’ GitHub, and the data shown (subjects, products, locations, …) are stored within a CSV file. The images are all stored in the original resources (GLAMS) where they are easily accessible, in the authors’ computers as downloaded files, and in a folder in the GitHub repository. To alter this collection, one needs access to the GitHub, wifi, and beginner coding knowledge. 
 
 **Documentation and Metadata**
 
-	This collections’ documentation and data is accessible to users in the ‘data’ tab on the Navigation Bar. Using this tab, the user can click either the excel or CSV buttons on the top of the page and download a file containing all of the metadata (including “objectid”, which links the image files to their id in the GitHub repository). 
+This collections’ documentation and data is accessible to users in the ‘data’ tab on the Navigation Bar. Using this tab, the user can click either the excel or CSV buttons on the top of the page and download a file containing all of the metadata (including “objectid”, which links the image files to their id in the GitHub repository). 
 
 **Storage and Backup**
 
-	This project stores objects and metadata within the GitHub repository, which uses Microsoft’s cloud storage, including multiple physical backups. This said, the repository itself is one of one, meaning if it were to be deleted, all of the items and storage inside it would be too. 
+This project stores objects and metadata within the GitHub repository, which uses Microsoft’s cloud storage, including multiple physical backups. This said, the repository itself is one of one, meaning if it were to be deleted, all of the items and storage inside it would be too. 
 
-	The items in the collection, including one copy of each image and the metadata sheet, is also stored in a Google drive folder, another cloud storage, and downloaded to the members local hard drives. All images are stored in their GLAM's digital space as well. 
+The items in the collection, including one copy of each image and the metadata sheet, is also stored in a Google drive folder, another cloud storage, and downloaded to the members local hard drives. All images are stored in their GLAM's digital space as well. 
 
 **Data Sharing**
 
-	The contents of this project are accessible for perusal within the CollectionBuilder website, where the metadata can be downloaded as a sheet. The template and upholding code is accessible through the GitHub repository, where all of the images are also uploaded. Every item in the collection, including those in copyright, are usable for non-commercial purposes, and can be downloaded from their GLAM source.
+The contents of this project are accessible for perusal within the CollectionBuilder website, where the metadata can be downloaded as a sheet. The template and upholding code is accessible through the GitHub repository, where all of the images are also uploaded. Every item in the collection, including those in copyright, are usable for non-commercial purposes, and can be downloaded from their GLAM source.
 
 **Period of Data Retention**
 
