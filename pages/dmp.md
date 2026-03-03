@@ -64,7 +64,7 @@ The items, including the metadata sheet and images, will still be in a Google Dr
 * Balancing three rights statements (In Copyright, In Copyright \- Educational Use Permitted, No Copyright \- United States), two creative commons attributes. For the In Copyright, it was sourced from a GLAM, but given the age of the object, company no longer being around, and zero download restrictions, we assumed for educational, noncommercial use it should be fine  
 * We are reusing these objects, despite not all being in the public domain, due to educational purposes. 
 
-## Appendix: Data Dictionary
+## Data Dictionary
 
 | field | definition | example |
 | :---- | :---- | :---- |
@@ -72,19 +72,21 @@ The items, including the metadata sheet and images, will still be in a Google Dr
 | filename | Name of file and file type extension as-is stored in the folder.  Our naming convention includes the abbreviated company name, and the product being sold | antikamnia\_painmeds.jpeg |
 | title | Name of the object, sourced as-is from the GLAM or a simplified version for clarity  | “Faith” |
 | creator | The company or group whose product is advertised | Antikamnia Chemical Company |
-| producer | Artist, Manufacturer, or Host |  |
-| product |  |  |
-| mediumadvert |  |  |
-| date |  |  |
-| daterange |  |  |
-| description  |  |  |
-| subject |  |  |
-| location |  |  |
-| city |  |  |
-| type |  |  |
-| format |  |  |
-| language  |  |  |
-| righttstatement |  |  |
-| rights |  |  |
-| citation  |  |  |
+| producer | Artist, Manufacturer, or Host (may be Unknown) | Graphic Co. Lith |
+| product | The item being advertised or sold | Medicine |
+| mediumadvert | The medium by which the advertisement is displayed | Trade card |
+| date | The year known or best estimated of the advertisement's creation | 1898 |
+| daterange | The years, added or subtracted from the 'date' field, that give a range of error | 5 |
+| description | A few sentences describing the visual characteristics of the advertisement | "A card with a nun looking towards the moon, seemingly praying. The moon is a pain relief pill. On the bottom it says "Faith" in quotes, handwritten. On the top it says "First in Relief of Pain". The nun has rosy cheeks." |
+| subject | Characteristics identified in the item, especially which overlap with other items, separated by semicolons (Number of women, themes, visual traits, product type, etc) | "solo woman;nun;faith;religion;pail treatment;treatment;health;pharmaceutical;drug;card;lithograph;" |
+| location | The state in the United States in which the manufacturers sponsor (often primary factory for the creator) resided | Missouri |
+| city | The city in which the manufacturers sponsor (often primary factory for the creator) resided | St. Louis |
+| longitude | The longitude of the City, State of the item | -74.006015 |
+| latitude | The latitude of the City, State of the item | 40.712728 |
+| type | The format for the image | StillImage |
+| format | The download format for the image (all are jpg or jpeg) | image/jpeg |
+| language  | The language used in the item | US-Eng |
+| righttstatement | A hyperlink to the rights that the item are under | https://rightsstatements.org/page/InC/1.0/?language=en |
+| rights | The human readable form of the rights statement | Public Domain |
+| citation | The APA format citation for each item | "Digital Collections, Science History Institute Museum & Library. (ca. 1898). Trade Card for the Antikamnia Chemical Company's pain relief product with nun. Retrieved from https://digital.sciencehistory.org/works/q811kk83q" |
 
