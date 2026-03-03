@@ -1,3 +1,9 @@
+---
+title: Data Management Plan
+layout: page
+permalink: /dmp.html
+---
+
 **The Manufactured American Muse**
 
 ***Fictional Women in Digitized Adverts from 1880 to 1945***
