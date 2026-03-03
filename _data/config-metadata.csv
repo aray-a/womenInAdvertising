@@ -9,7 +9,7 @@ subject,Subjects,true
 location,Location,true
 latitude,Latitude
 longitude,Longitude
-citation,Citation,true,true
+citation,Citation,,
 source,Source,,true
 identifier,Source Identifier,,
 type,Type,
