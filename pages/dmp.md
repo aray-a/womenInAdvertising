@@ -83,7 +83,7 @@ The items, including the metadata sheet and images, will still be in a Google Dr
 | city | The city in which the manufacturers sponsor (often primary factory for the creator) resided | St. Louis |
 | longitude | The longitude of the City, State of the item | -74.006015 |
 | latitude | The latitude of the City, State of the item | 40.712728 |
-| type | The format for the image | StillImage |
+| type | The format for the uploaded content (all are images) | StillImage |
 | format | The download format for the image (all are jpg or jpeg) | image/jpeg |
 | language  | The language used in the item | US-Eng |
 | righttstatement | A hyperlink to the rights that the item are under | https://rightsstatements.org/page/InC/1.0/?language=en |
