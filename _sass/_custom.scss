@@ -18,8 +18,14 @@ tr, td {
     padding: 15px;
 }
 body {
-    background: #cbd8d8ff
+    background: #cbd8d8ff;
 }
 .card {
-    background: #e5d7c0ff
+    background: #e5d7c0ff;
+}
+// attempting to change the homepage banner background
+header.masthead,
+.jumbotron, 
+.bg-dark{
+    background: #e5d7c0ff;
 }
