@@ -16,7 +16,7 @@ This collection is hosted on GitHub, and accessible through the CollectionBuilde
 
 ## Delegation of Responsibilities
 
-Throughout this undertaking, both members worked extensively to find, record, and verify resources. Collaboration was key in balancing the skills each member has. Together, they altered code, added custom builds to the CollectionBuilder template, and debated descriptive texts. 
+Throughout this project, both members worked extensively to source, record, and verify objects. Collaboration was key in balancing each members’ skillsets. Together, they altered code, added custom builds to the CollectionBuilder template, and polished the overarching narrative. 
 
 * Kat Lai
 
@@ -28,25 +28,22 @@ Responsible for the majority of item-specific research, Ainsley did the lateral 
 
 ## Anticipated Data
 
-Began with feminine mascots, fictionalized and recurring characters in digital advertising. Severe limitations since companies of that era tend to manufacture new fictionalized characters to the product and campaign. Continued through the list of official GLAMs and compiled a long list of bookmarked tabs of objects that meet the criteria. Once the list got too long, then we started curating — Copyrights (some required special permissions to access) and narrative \_\_. 
-
-Originally sourced from a wide range of producers and artists, there are plenty of overarching themes. Trade cards and magazine pages were the two most popular mediums, and production using lithographs outpaced all other printing formats until 1900\. Finding the items in the collection required traversing through metadata and key-words, rather than by artists or companies, many of which featured in the collection are no longer in operation. As there are very few institutions hosting advertising-media in specific, niche sources and sources focusing on American history were of particular utility. 
+We sourced our data from a variety of galleries, libraries, university archives, and museums. The process initially involved recalling popular brand mascots, but we ran into active trademark restrictions. Sourcing difficulties were further exacerbated as few institutions hosted digitized advertising ephemera, so niche sources and those focusing on American history became particular useful. We continued our pursuit of relevant digital objects by traversing the official GLAMs, using varied metadata and keywords. 
 
 | Item Description | File Type | Size (in MB) | \# of Items | License(s) | Sources |
-| :--------------: | :-------: | :----------: | :---------: | :--------: | :-----: |
+| :--------------- | :-------- | :----------- | :---------- | :--------- | :------ |
 | Downloaded images of digitized scans, or photographs, of visual advertising media from GLAM institutions | JPG/JPEG | 19.8 MB | 28 | In Copyright \- Educational Use Permitted, CC BY-NC 4.0,  Public Domain | Waring Library, Harvard Library, The New York Public Library, JSTOR, The State Historical Society of Missouri, National Museum of American History, Folger Shakespeare Library, Railroad Museum of Pennsylvania, Columbia University Libraries, Science History Institute Museum and Library, UC Berkeley Art Museum, Evelyn Lehman Culp Heritage Collection, Temple University Libraries, The Library Company of Philadelphia |
 
-This collection is built in the CollectionBuilder Jekyll Template, and hosted in GitHub. All necessary tools to edit the collection exist within the GitHub repository. This means that the code for the website is accessible and editable within the authors’ GitHub, and the data shown (subjects, products, locations, …) are stored within a CSV file. The images are all stored in the original resources (GLAMS) where they are easily accessible, in the authors’ computers as downloaded files, and in a folder in the GitHub repository. To alter this collection, one needs access to the GitHub, wifi, and beginner coding knowledge. 
+This collection is built upon the CollectionBuilder Jekyll Template, and hosted on GitHub. Additionally, the data shown (e.g. subjects, products, locations) are stored within a CSV file. All necessary tools to edit and access the collection exist within the GitHub repository, requiring GitHub access, Wi-Fi, and beginner coding knowledge for access.  
+The items are stored in the institutions we sourced them from, where they are easily accessible to anyone. They are also downloaded in the authors’ computers, and in a folder in the GitHub repository. 
 
 ## Documentation and Metadata
 
-This collections’ documentation and data is accessible to users in the ‘data’ tab on the Navigation Bar. Using this tab, the user can click either the excel or CSV buttons on the top of the page and download a file containing all of the metadata (including “objectid”, which links the image files to their id in the GitHub repository). 
+The collection data are accessible to users via our GitHub repository and the ‘Metadata’ tab on the CollectionBuilder. Using this tab, the user can click either the Excel or CSV buttons located at the top of the page to download a file containing all of the metadata (including “objectid”, which links the image files to their id in the GitHub repository). To help clarify certain fields, our CollectionBuilder site will also host a data dictionary appendix under the “DMP” tab. 
 
 ## Storage and Backup
 
-This project stores objects and metadata within the GitHub repository, which uses Microsoft’s cloud storage, including multiple physical backups. This said, the repository itself is one of one, meaning if it were to be deleted, all of the items and storage inside it would be too. 
-
-The items in the collection, including one copy of each image and the metadata sheet, is also stored in a Google drive folder, another cloud storage, and downloaded to the members local hard drives. All images are stored in their GLAM's digital space as well. 
+All digital objects and their respective metadata are currently stored on the GitHub repository, which uses Microsoft’s cloud storage (multiple physical backups). The repository is one of one — if it were deleted, the project would be lost. To prevent this issue, we’ve prepared backups through a Google Drive folder, in addition to each members’ local hard drives. All images are also stored in their GLAM's digital repositories.
 
 ## Data Sharing
 
@@ -54,17 +51,14 @@ The contents of this project are accessible for perusal within the CollectionBui
 
 ## Period of Data Retention
 
-This project website and repository will be actively maintained until April of 2026 for debugging purposes and minor stylistic updates. Beyond this point, care will transition to casual maintenance, meaning no longer adding or altering the collection or website, but ensuring it is functional for viewing until June of 2027\. 
-
-The items, including the metadata sheet and images, will still be in a Google Drive until the site is no longer operational. 
+This website and its repository will be actively maintained for debugging purposes and minor stylistic changes. Beyond April 2026, care will transition to casual upkeep to ensure it’s viewable until June 2027  — meaning no further updates or edits. The items, including the metadata sheet and images, will still be stored in a Google Drive folder even if the site is no longer operational. 
 
 ## Licensing and Ethical Issues
 
-*Use this section to outline the intellectual property rights of your created material.  What are the terms under which others may use these materials? (3-4 sentences)*
-
-* Acknowledging trademarks of advertising mediums, some of which are still around today. Did a lot of work digging into terms of use for each individual object  
-* Balancing three rights statements (In Copyright, In Copyright \- Educational Use Permitted, No Copyright \- United States), two creative commons attributes. For the In Copyright, it was sourced from a GLAM, but given the age of the object, company no longer being around, and zero download restrictions, we assumed for educational, noncommercial use it should be fine  
-* We are reusing these objects, despite not all being in the public domain, due to educational purposes. 
+Due to business trademarks, there’s a wide variety of intellectual property rights represented in our collection. Beyond the ones accessible in the public domain, we feature objects In Copyright, In Copyright \- Educational Use Permitted, No Copyright - United States, and Creative Commons Attribution\-Noncommercial 4.0. For certain copyright restrictions, we had to make some judgement calls on the basis of fair use:
+* Originally sourced from GLAMs, all of our advertisements were available to download with zero restrictions
+* Some advertising ephemera predate the 1930s, and/or were produced by abandoned trademarks (defunct companies)
+* We are using these objects for educational, non-commercial purposes 
 
 ## Data Dictionary
 
