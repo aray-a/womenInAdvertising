@@ -23,9 +23,7 @@ body {
 .card {
     background: #e5d7c0ff;
 }
-// attempting to change the homepage banner background
-header.masthead,
-.jumbotron, 
+// attempting to change the homepage banner background 
 .bg-dark{
-    background: #e5d7c0ff;
-}
+    background-color: #e5d7c0ff !important;
+}}
