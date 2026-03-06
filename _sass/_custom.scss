@@ -26,5 +26,5 @@ body {
 // attempting to change the homepage banner background 
 .bg-dark{
     --bs-bg-opacity: 1;
-    background-color: rgba(229, 215, 192), var(--bs-bg-opacity)) !important;
+    background-color: rgba(229, 215, 192, var(--bs-bg-opacity)) !important;
 }
