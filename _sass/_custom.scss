@@ -18,13 +18,13 @@ tr, td {
     padding: 15px;
 }
 body {
-    background: #414546ff;
+    background: #cbd8d8ff;
 }
-.card {
+//.card {
     background: #e5d7c0ff;
 }
 // attempting to change the homepage banner background 
 .bg-dark{
-    --bs-bg-opacity: 0.9;
+    --bs-bg-opacity: 0.7;
     background-color: rgba(65, 69, 70, var(--bs-bg-opacity)) !important;
 }
