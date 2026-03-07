@@ -44,9 +44,12 @@ footer.bg-dark {
   box-shadow: none !important;
 }
 // updating color themes
-.btn-primary {
-  background-color: #da404eff !important;
-  border-color: #da404eff !important;
+.btn.btn-primary,
+a.btn.btn-primary,
+button.btn.btn-primary {
+  background-color: #da404e !important;
+  border-color: #da404e !important;
+  color: #fff !important;
 }
 .btn-success {
   background-color: #b2b6bbff !important;
