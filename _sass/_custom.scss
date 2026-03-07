@@ -13,7 +13,7 @@ body {
   font-family: "Lato", sans-serif;
   font-weight: 400;
   font-style: normal;
-  color: #251a17ff;
+  color: #FFFFFF;
 }
 tr, td {
     padding: 15px;
@@ -29,4 +29,12 @@ body {
     --bs-bg-opacity: 0.7;
     background-color: rgba(37, 26, 23, var(--bs-bg-opacity)) !important;
     //background-color: rgba(65, 69, 70, var(--bs-bg-opacity)) !important;
+}
+// attempting to change the navbar and foooters to be more solid 
+.navbar .bg-dark {
+    background-color: #251a17ff !important;  
+}
+// attempt for footer
+footer .bg-dark {
+    background-color: #251a17ff !important;  
 }
