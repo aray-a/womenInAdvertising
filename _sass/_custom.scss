@@ -51,10 +51,21 @@ footer.bg-dark {
   background-color: #da404eff !important;
   border-color: #da404eff !important;
   color: #fff !important;
+  transition: background-color 0.2s ease;
+}
+.btn-primary:hover,
+.btn-primary:focus {
+  background-color: #c23a46 !important; /* ~15% darker */
+  border-color: #c23a46 !important;
 }
 .btn-success {
   background-color: #b2b6bb !important;
   border-color: #b2b6bb !important;
   color: #FFF !important;
+  transition: background-color 0.2s ease;
 }
-
+.btn-success:hover,
+.btn-success:focus {
+  background-color: #9ca0a4 !important; /* ~15% darker */
+  border-color: #9ca0a4 !important;
+}
