@@ -37,6 +37,14 @@ h3#yearRange a {
 h3#yearRange a:hover {
   color: #da404e !important;  
 }
+.btn.btn-link {
+  color: #92cbcbff !important;  
+}
+.btn.btn-link:hover,
+.btn.btn-link:focus {
+  color: #6aa3a3ff !important;  
+  text-decoration: underline;    
+}
 // attempting to change only the homepage banner background 
 #home-banner .bg-dark{
     --bs-bg-opacity: 0.8;
