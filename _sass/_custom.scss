@@ -13,7 +13,7 @@ body {
   font-family: "Lato", sans-serif;
   font-weight: 400;
   font-style: normal;
-  color: #FFFFFF;
+  color: #251a17ff;
 }
 tr, td {
     padding: 15px;
@@ -32,9 +32,9 @@ body {
 }
 // attempting to change the navbar and foooters to be more solid 
 .navbar .bg-dark {
-    background-color: #251a17ff !important;  
+    background: #251a17ff !important;  
 }
 // attempt for footer
 footer .bg-dark {
-    background-color: #251a17ff !important;  
+    background: #251a17ff !important;  
 }
