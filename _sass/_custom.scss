@@ -30,6 +30,13 @@ body {
 .text-dark {
   color: #251a17ff !important;
 }
+h3#yearRange a {
+  color: #b2b6bbff !important;
+  text-decoration: none;
+}
+h3#yearRange a:hover {
+  color: #8f9499ff !important;  
+}
 // attempting to change only the homepage banner background 
 #home-banner .bg-dark{
     --bs-bg-opacity: 0.8;
