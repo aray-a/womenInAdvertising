@@ -75,7 +75,11 @@ footer.bg-dark {
 // word cloud button color update
 .btn-outline-primary:hover,
 .btn-outline-primary:focus {
- background-color: #da404e !important;   
- border-color: #da404e !important;
- color: #fff !important;                
+  background-color: #da404e !important;   
+  border-color: #da404e !important;
+  color: #fff !important;                
+}
+.carousel-caption {
+  --bs-bg-opacity: 0.7;
+ background-color: rgba(37, 26, 23, var(--bs-bg-opacity)) !important;
 }
