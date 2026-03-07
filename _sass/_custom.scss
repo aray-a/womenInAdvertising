@@ -38,3 +38,8 @@ body {
 footer.bg-dark {
     background-color: #251a17ff !important;  
 }
+// remove navbar border, gross
+.navbar {
+  border: none !important;
+  box-shadow: none !important;
+}
