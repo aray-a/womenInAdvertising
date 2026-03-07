@@ -4,13 +4,8 @@
 */
 @import url('https://fonts.googleapis.com/css2?family=Limelight&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Limelight&display=swap');
-.h1,h1{
-  font-family: "Limelight", sans-serif;
-  font-weight: 400;
-  font-style: normal;
-  color: #FFFF;
-}
-.h2,h2,.h3,h3,.h4,h4,.h5,h5{
+
+.h1,h1,.h2,h2,.h3,h3,.h4,h4,.h5,h5{
   font-family: "Limelight", sans-serif;
   font-weight: 400;
   font-style: normal;
@@ -39,7 +34,7 @@ body {
 #home-banner .bg-dark{
     --bs-bg-opacity: 0.7;
     background-color: rgba(37, 26, 23, var(--bs-bg-opacity)) !important;
-    //background-color: rgba(65, 69, 70, var(--bs-bg-opacity)) !important;
+    color: #fff
 }
 // attempting to change the navbar and foooters to be more solid 
 .navbar.bg-dark {
@@ -88,7 +83,7 @@ footer.bg-dark {
 .btn-outline-primary:focus {
   background-color: #da404e !important;   
   border-color: #da404e !important;
-  color: #fff !important;                
+  color: #fff !important; 
 }
 .carousel-item-title {
   --bs-bg-opacity: 0.8;
