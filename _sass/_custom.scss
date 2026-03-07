@@ -31,10 +31,10 @@ body {
     //background-color: rgba(65, 69, 70, var(--bs-bg-opacity)) !important;
 }
 // attempting to change the navbar and foooters to be more solid 
-.navbar .bg-dark {
-    background: #251a17ff !important;  
+.navbar.bg-dark {
+    background-color: #251a17ff !important;  
 }
 // attempt for footer
-footer .bg-dark {
-    background: #251a17ff !important;  
+footer.bg-dark {
+    background-color: #251a17ff !important;  
 }
