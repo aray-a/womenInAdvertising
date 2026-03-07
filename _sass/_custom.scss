@@ -69,3 +69,16 @@ footer.bg-dark {
   background-color: #9ca0a4 !important; /* ~15% darker */
   border-color: #9ca0a4 !important;
 }
+.btn-outline-primary {
+  color: #da404e !important;
+  border-color: #da404e !important;
+  background-color: transparent !important;
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+// word cloud button color update
+.btn-outline-primary:hover,
+.btn-outline-primary:focus {
+ background-color: #da404e !important;   
+ border-color: #da404e !important;
+ color: #fff !important;                
+}
