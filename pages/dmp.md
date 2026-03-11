@@ -12,7 +12,7 @@ permalink: /dmp.html
 
 This collection features images of fictionalized women in American advertising mediums, spanning 1880 to 1945\. Displaying a variety of products, this collection may prove useful for those in pursuit of a historical understanding of advertising or women in the United States, whether that be for artistic, political, or marketing purposes. The advertisements shown were collected, owned, and digitized by GLAM institutions – galleries, libraries, archives, and museums. The entirety of the images are accessible to the public on these GLAM institution’s online platforms. 
 
-This collection is hosted on GitHub, and accessible through the CollectionBuilder webhost. GitHub is a website that allows users to import, change, store, and share their code; this project is based on the CollectionBuilder Jekyll Template. The metadata is hosted in a CSV file which is stored in GitHub as well. The aspect of this project accessible through the website uses this software to read and create the website, and allows users to traverse its contents by features like subject, product, and location. 
+This collection is hosted on GitHub, and accessible through the CollectionBuilder webhost. GitHub is a website that allows users to import, change, store, and share their code; this project is based on the CollectionBuilder Jekyll Template. The metadata is hosted in a CSV file which is stored in a shared Google Drive in a sheet document. The aspect of this project accessible through the website uses this software to read and create the website, and allows users to traverse its contents by features like subject, product, and location. 
 
 ## Delegation of Responsibilities
 
@@ -28,7 +28,7 @@ Responsible for the majority of item-specific research, Ainsley did the lateral 
 
 ## Anticipated Data
 
-We sourced our data from a variety of galleries, libraries, university archives, and museums. The process initially involved recalling popular brand mascots, but we ran into active trademark restrictions. Sourcing difficulties were further exacerbated as few institutions hosted digitized advertising ephemera, so niche sources and those focusing on American history became particular useful. We continued our pursuit of relevant digital objects by traversing the official GLAMs, using varied metadata and keywords. 
+We sourced our data from a variety of galleries, libraries, university archives, and museums. The process initially involved recalling popular brand mascots, but we ran into active trademark restrictions. Niche sources and those focusing on American history became particular useful. We continued our pursuit of relevant digital objects by traversing the official GLAMs, using varied metadata and keywords. 
 
 | Item Description | File Type | Size | Items | License(s) | Sources |
 | :--------------: | :-------: | :--: | :---: | :--------: | :-----: |
@@ -39,26 +39,27 @@ The items are stored in the institutions we sourced them from, where they are ea
 
 ## Documentation and Metadata
 
-The collection data are accessible to users via our GitHub repository and the ‘Metadata’ tab on the CollectionBuilder. Using this tab, the user can click either the Excel or CSV buttons located at the top of the page to download a file containing all of the metadata (including “objectid”, which links the image files to their id in the GitHub repository). To help clarify certain fields, our CollectionBuilder site will also host a data dictionary appendix under the “DMP” tab. 
+The collection data are accessible to users via our GitHub repository and the ‘Metadata’ tab on the CollectionBuilder. Using this tab, the user can click either the Excel or CSV buttons located at the top of the page to download a file containing all of the metadata (including “objectid”, which links the image files to their id in the GitHub repository). To help clarify certain fields, our CollectionBuilder site hosts a data dictionary appendix under the “DMP” tab. 
 
 ## Storage and Backup
 
-All digital objects and their respective metadata are currently stored on the GitHub repository, which uses Microsoft’s cloud storage (multiple physical backups). The repository is one of one — if it were deleted, the project would be lost. To prevent this issue, we’ve prepared backups through a Google Drive folder, in addition to each members’ local hard drives. All images are also stored in their GLAM's digital repositories.
+All digital objects and their respective metadata are currently stored on the GitHub repository, which uses Microsoft’s cloud storage (multiple physical backups). The code to host the CollectionBuilder site is within the GitHub repository. The repository is one of one — if it were deleted, the project would be lost. To prevent this issue, we’ve prepared backups through a Google Drive folder, in addition to each members’ local hard drives. All images are also stored in their GLAM's digital repositories.
 
 ## Data Sharing
 
-The contents of this project are accessible for perusal within the CollectionBuilder website, where the metadata can be downloaded as a sheet. The template and upholding code is accessible through the GitHub repository, where all of the images are also uploaded. Every item in the collection, including those in copyright, are usable for non-commercial purposes, and can be downloaded from their GLAM source.
+The contents of this project are accessible for perusal within the CollectionBuilder website, where the metadata can be downloaded as a sheet. The template and upholding code is accessible through the GitHub repository, where all of the images are also uploaded. Every item in the collection, including those in copyright, are usable for non-commercial purposes, and can be downloaded from their GLAM source. The collection site includes an APA citation and source link for each item, allowing users to access that original source institutions. 
 
 ## Period of Data Retention
 
-This website and its repository will be actively maintained for debugging purposes and minor stylistic changes. Beyond April 2026, care will transition to casual upkeep to ensure it’s viewable until June 2027  — meaning no further updates or edits. The items, including the metadata sheet and images, will still be stored in a Google Drive folder even if the site is no longer operational. 
+This website and its GitHub repository will be actively maintained for debugging purposes and minor stylistic changes. Beyond April 2026, care will transition to casual upkeep to ensure it’s viewable until June 2027  — meaning no further updates or edits. The items, including the metadata sheet and images, will still be stored in a Google Drive folder even if the site is no longer operational. 
 
 ## Licensing and Ethical Issues
 
 Due to business trademarks, there’s a wide variety of intellectual property rights represented in our collection. Beyond the ones accessible in the public domain, we feature objects In Copyright, In Copyright \- Educational Use Permitted, No Copyright - United States, and Creative Commons Attribution\-Noncommercial 4.0. For certain copyright restrictions, we had to make some judgement calls on the basis of fair use:
 * Originally sourced from GLAMs, all of our advertisements were available to download with zero restrictions
 * Some advertising ephemera predate the 1930s, and/or were produced by abandoned trademarks (defunct companies)
-* We are using these objects for educational, non-commercial purposes 
+* We are using these objects for educational, non-commercial purposes
+For any person interested in items from our collection, in each item's information is included the sections "Rights", with the rights statement from the original hosting institution, and the "Rights Statement", which is a link to the rights definition. 
 
 ## Data Dictionary
 
